@@ -1,0 +1,8 @@
+/*
+Style: Default 1120
+*/
+
+/* 1120px */
+.container,
+#header-inner, #nav-topbar, #nav, #nav-sub { max-width: 1120px; }
+.megaspot .entry-thumbnail { max-height: 415px; }

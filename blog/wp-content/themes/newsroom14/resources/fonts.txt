@@ -1,0 +1,7 @@
+Fonts used in this theme:
+
+Droid Serif:
+https://www.google.com/webfonts#UsePlace:use/Collection:Droid+Serif
+
+League Gothic Regular:
+http://www.theleagueofmoveabletype.com/league-gothic

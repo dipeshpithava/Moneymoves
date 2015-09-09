@@ -1,0 +1,111 @@
+body{
+	padding: 0px;
+	margin: 0px;
+
+}
+.padd0{
+	padding: 0px;
+}
+.container-width{
+	max-width: 650px;
+	float: none;
+	margin: 0px;
+	
+	/*background: red;*/
+}
+.head-h2{
+	font-family: 'HelveticaNeue', arial;
+	font-size: 24px;
+	font-weight: bold;
+}
+.head-support{
+	font-family: 'HelveticaNeue', arial;
+	font-size: 20px;
+	color: #000;
+}
+.div-img{
+	width: 80px;
+	height: 80px;
+	display: block;
+	float: left;
+	overflow: hidden;
+	margin: 0px 15px 0px 0px;
+}
+.div-img1{
+	width: 80px;
+	height: 80px;
+	display: block;
+	float: right;
+	overflow: hidden;
+	margin: 0px 0px 0px 15px;
+}
+.pos-neg{
+	color: #1362ad;
+	font-family: 'HelveticaNeue', arial;
+	font-size: 18px;
+	margin: 0px 0px 5px 0px;
+
+}
+.small-po{
+	color: #333;
+	font-family: 'HelveticaNeue', arial;
+	font-size: 13px;
+}
+.ques{
+	font-size: 16px;
+	font-family: 'HelveticaNeue', arial;
+	color: #000;
+	margin: 3% 0;
+
+}
+.thumb-btn{
+	width: 90%;
+	height: 83px;
+	border-radius: 0px;
+	background: #ccc;
+	border: 0px;
+	text-align: left;
+
+}
+.media-heading{
+		font-size: 17px;
+		color: #000;
+	font-family: 'HelveticaNeue', arial;
+}
+.media-body{
+	font-size: 12px;
+		color: #000;
+	font-family: 'HelveticaNeue', arial;
+}
+.thumb-btn:hover{
+	background: #aeaeae;
+	border: 0px;
+}
+.po-thu
+{
+	color: #4DAC54;
+}
+.ne-thu{
+color: #F01A34;
+}
+.img-media{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+.vote-btn{
+	font-family: 'HelveticaNeue', arial;
+    background: #ccc;
+    color: #000;
+    height: 0px;
+    padding: 3px 11px;
+    text-align: center;
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+.vote-btn:hover{
+	  text-decoration: none;
+	  color: #fff;
+	  background: #4DAC54;
+}
