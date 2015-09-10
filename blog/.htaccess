@@ -1,17 +1,17 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /moneymasala/blogs/
+RewriteBase /moneymoves/blogs/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /moneymasala/blogs/
+RewriteBase /moneymoves/blogs/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /moneymasala/blogs/index.php [L]
+RewriteRule . /moneymoves/blogs/index.php [L]
 </IfModule>
 
 # END WordPress
